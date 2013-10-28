@@ -2,7 +2,7 @@ name := "TestProject"
 
 version := "1.0-SNAPSHOT"
 
-organization := "com.tonicebrian"
+organization := "com.knokode"
 
 scalaVersion := "2.10.0"
 
